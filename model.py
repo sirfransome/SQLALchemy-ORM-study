@@ -3,3 +3,4 @@ import os
 # from dotenv import load_dotenv
 print(sqlalchemy.__version__)
 print('Hello world')
+print(sqlalchemy.__name__)
